@@ -282,6 +282,22 @@ Software Used Div properties
     opacity: 1;
     transition: 0.5s;
 }
+#div-with-image > #my-tools > #xcode > img:hover{
+    height: 230px;
+    width: 230px;
+    transition: 0.5s;
+}
+#div-with-image > #my-tools > #xcode > img{
+    transition: 2s;
+}
+#div-with-image > #my-tools > #android-studio > img:hover{
+    height: 230px;
+    width: 230px;
+    transition: 0.5s;
+}
+#div-with-image > #my-tools > #android-studio > img{
+    transition: 2s;
+}
 #div-with-image > #my-tools > #webstorm > #the-process > #what-we-do > ul{
     text-transform: none;
     color: white;
